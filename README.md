@@ -43,12 +43,12 @@ To run the application, open your terminal and execute the following command:
 streamlit run main.py
 
 
-## Features
+### Features
 
 - **Exercise Tracking**: Accurately tracks repetitions for various exercises like Bicep Curls, Push-Ups, Squats, and Shoulder Press.
 - **Voice Commands**: Uses speech recognition to start and stop the exercise tracking.
 
-## Technologies Used
+### Technologies Used
 
 - **Computer Vision**: For pose estimation and exercise tracking.
 - **Speech Recognition**: For voice-activated controls.
