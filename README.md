@@ -39,16 +39,16 @@ This project is an AI application that utilizes Computer Vision technology, Pose
 
 To run the application, open your terminal and execute the following command:
 
-```bash
-streamlit run main.py
+      ```bash
+      streamlit run main.py
 
 
-### Features
+## Features
 
 - **Exercise Tracking**: Accurately tracks repetitions for various exercises like Bicep Curls, Push-Ups, Squats, and Shoulder Press.
 - **Voice Commands**: Uses speech recognition to start and stop the exercise tracking.
 
-### Technologies Used
+## Technologies Used
 
 - **Computer Vision**: For pose estimation and exercise tracking.
 - **Speech Recognition**: For voice-activated controls.
