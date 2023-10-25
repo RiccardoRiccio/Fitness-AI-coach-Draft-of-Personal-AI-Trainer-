@@ -34,6 +34,13 @@ This project is an AI application that utilizes Computer Vision technology, Pose
    ```bash
    git clone https://github.com/RiccardoRiccio/Fitness-AI-coach.git
 
+## How to Run
+
+To run the application, open your terminal and execute the following command:
+
+```bash
+streamlit run main.py
+
 
 ## Features
 
