@@ -7,8 +7,7 @@ This project is an AI application that utilizes Computer Vision technology, Pose
 2. [Getting Started](#getting-started)
 3. [Features](#features)
 4. [Technologies Used](#technologies-used)
-5. [Main Code](#main-code)
-6. [Contributors](#contributors)
+
 
 ## Project Structure
 
