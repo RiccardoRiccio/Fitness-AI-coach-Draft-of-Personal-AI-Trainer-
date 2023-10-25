@@ -16,10 +16,10 @@ This project is an AI application that utilizes Computer Vision technology, Pose
 - `ExerciseAiTrainer`: Pose estimation logic specific for each exercise.
 - `AiTrainer_utils.py`: utils functions (resize image, calculate distance)
 - `PoseModule2.py`: Body Pose estimation logic
+- `requirements.txt`: List of Python libraries required for this project.
 - mp3 files: Voice of the AI trainer
 - mp4 files: Demo video of exercises (push up, curl, squat, etc)
-  
-- `requirements.txt`: List of Python libraries required for this project.
+
 
 ## Getting Started
 
@@ -33,3 +33,16 @@ This project is an AI application that utilizes Computer Vision technology, Pose
 1. Clone this repository to your local machine.
    ```bash
    git clone https://github.com/RiccardoRiccio/Fitness-AI-coach.git
+
+
+## Features
+
+- **Exercise Tracking**: Accurately tracks repetitions for various exercises like Bicep Curls, Push-Ups, Squats, and Shoulder Press.
+- **Voice Commands**: Uses speech recognition to start and stop the exercise tracking.
+
+## Technologies Used
+
+- **Computer Vision**: For pose estimation and exercise tracking.
+- **Speech Recognition**: For voice-activated controls.
+- **Streamlit**: For the web application interface.
+- **Technologies**: Python, OpenCV, Streamlit, mediapipe, Speech Recognition API
