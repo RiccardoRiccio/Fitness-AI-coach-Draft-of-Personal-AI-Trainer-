@@ -12,9 +12,12 @@ This project is an AI application that utilizes Computer Vision technology, Pose
 
 ## Project Structure
 
-- `/Audio`: Contains the audio processing files for text-to-speech and speech recognition.
-- `/ExerciseAiTrainer`: Contains the pose estimation and exercise tracking logic.
 - `main.py`: The main Python script that runs the Streamlit app.
+- `ExerciseAiTrainer`: Pose estimation logic specific for each exercise.
+- `AiTrainer_utils.py`: utils functions (resize image, calculate distance)
+- `PoseModule2.py`: Body Pose estimation logic
+- mp3 files: Voice of the AI trainer
+- mp4 files: Demo video of exercises (push up, curl, squat, etc)
   
 - `requirements.txt`: List of Python libraries required for this project.
 
@@ -29,4 +32,4 @@ This project is an AI application that utilizes Computer Vision technology, Pose
 
 1. Clone this repository to your local machine.
    ```bash
-   git clone https://github.com/YourUsername/Fitness-AI-Coach.git
+   git clone https://github.com/RiccardoRiccio/Fitness-AI-coach.git
