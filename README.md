@@ -5,7 +5,8 @@ This project is an AI application that utilizes Computer Vision technology, Pose
 
 Watch the Fitness AI Coach gameplay demo below:
 
-[![Fitness AI Coach Gameplay Demo](https://img.youtube.com/vi/T-vpCzy17ik/0.jpg)](https://www.youtube.com/watch?v=T-vpCzy17ik "Fitness AI Coach Gameplay Demo")
+[![Fitness AI Coach Gameplay Demo](https://img.youtube.com/vi/T-vpCzy17ik/0.jpg)](https://youtu.be/T-vpCzy17ik "Fitness AI Coach Gameplay Demo")
+
 
 ## Table of Contents
 1. [Project Structure](#project-structure)
