@@ -1,6 +1,11 @@
 # Fitness AI Coach
 
 This project is an AI application that utilizes Computer Vision technology, Pose Estimation, and Speech Recognition to provide accurate tracking of exercise repetitions during gym workouts. By doing so, it aims to enhance users' fitness routines.
+## Demo
+
+Watch the Fitness AI Coach demo below:
+
+[![Fitness AI Coach Demo](http://img.youtube.com/vi/Wp5Vq0ReFhs/0.jpg)](https://www.youtube.com/watch?v=T-vpCzy17ik "Fitness AI Coach Demo")
 
 ## Table of Contents
 1. [Project Structure](#project-structure)
